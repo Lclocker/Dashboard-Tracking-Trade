@@ -1,0 +1,32 @@
+{
+  "name": "trackingtrader",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/chart.js": "^2.9.34",
+    "@types/styled-components": "^5.1.15",
+    "axios": "^0.24.0",
+    "chart.js": "^3.6.0",
+    "chat.js": "^1.0.2",
+    "json": "^11.0.0",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-chartjs-2": "^3.3.0",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "server": "^1.0.36",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.32",
+    "eslint": "8.1.0",
+    "eslint-config-next": "11.1.2",
+    "typescript": "4.4.4"
+  }
+}
